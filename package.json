@@ -1,0 +1,7 @@
+{
+	"version": "1.0.0",
+	"description": "simple reverse proxy server",
+	"author": "asion <asionius@163.com>",
+	"main": "server.js",
+	"dependencies": {}
+}
